@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto mt-10 p-5">
+  <div>
     <h1 class="text-4xl font-bold mb-4">About Personalized Nutrition Advisor</h1>
     <p class="text-lg mb-6">
       Personalized Nutrition Advisor is a project aimed at helping individuals achieve their health and wellness goals through customized dietary recommendations. By analyzing personal health data and preferences, we offer tailored advice and meal plans to support your journey towards a healthier lifestyle.
