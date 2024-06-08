@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-10 p-5 w-full">
+    <div>
       <h1 class="text-4xl font-bold mb-4">Welcome to Personalized Nutrition Advisor</h1>
       <p class="text-lg">
         Our goal is to provide you with customized dietary recommendations based on your personal health data, preferences, and goals. 

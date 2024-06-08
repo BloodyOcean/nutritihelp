@@ -1,17 +1,18 @@
 <script setup>
-  import { ref } from 'vue'
-  import Navbar from './components/Navbar.vue'
+import { ref } from 'vue'
+import Navbar from './components/Navbar.vue'
+
 </script>
 
 <template>
   <div id="app">
-    <header class="sticky top-0 z-50">
-      <Navbar/>
+    <header>
+      <Navbar />
     </header>
 
-      <router-view></router-view>
+    <router-view class="mt-2 p-5 relative"></router-view> 
 
-      <footer></footer>
+    <footer></footer>
 
   </div>
 </template>

@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
+
+
 export default {
   content: [],
   theme: {
@@ -6,5 +9,6 @@ export default {
   },
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   plugins: [],
+  darkMode: 'selector',
 }
 
